@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void buscarPelicula(View view) {
+        //
         Toast.makeText(this, "mensaje", Toast.LENGTH_LONG).show();
     }
 
